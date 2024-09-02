@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paw-examen.Server", "paw-examen.Server\paw-examen.Server.csproj", "{5FE61DC6-E0DE-4B09-8093-1D59AB72681E}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "paw-examen.client", "paw-examen.client\paw-examen.client.esproj", "{88A25A9C-9C98-4888-8C72-77ED4498D130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE61DC6-E0DE-4B09-8093-1D59AB72681E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE61DC6-E0DE-4B09-8093-1D59AB72681E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE61DC6-E0DE-4B09-8093-1D59AB72681E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE61DC6-E0DE-4B09-8093-1D59AB72681E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A25A9C-9C98-4888-8C72-77ED4498D130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A25A9C-9C98-4888-8C72-77ED4498D130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A25A9C-9C98-4888-8C72-77ED4498D130}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{88A25A9C-9C98-4888-8C72-77ED4498D130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A25A9C-9C98-4888-8C72-77ED4498D130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A25A9C-9C98-4888-8C72-77ED4498D130}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F6F1F4-0557-495E-9F4E-A578081D5B80}
+	EndGlobalSection
+EndGlobal

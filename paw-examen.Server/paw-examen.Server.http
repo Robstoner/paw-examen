@@ -1,0 +1,6 @@
+@paw_examen.Server_HostAddress = http://localhost:5084
+
+GET {{paw_examen.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
